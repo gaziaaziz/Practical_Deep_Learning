@@ -1,0 +1,4 @@
+/l/living_room
+/a/airport_terminal
+/d/dining_room
+/b/bedroom
